@@ -227,7 +227,7 @@ else # Client
     end
 
     #unique Connection IDentifier
-    conn_id=`uuidgen`.chomp
+    conn_id="eggsdee".chomp
     connected=false
 
 
